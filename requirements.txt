@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+scikit-learn
+fastapi
+uvicorn
+streamlit
+python-multipart
