@@ -1,7 +1,9 @@
-ultralytics
-opencv-python
-scikit-learn
 fastapi
-uvicorn
-streamlit
 python-multipart
+streamlit
+opencv-python
+ultralytics
+numpy
+scikit-learn
+requests
+lapx
